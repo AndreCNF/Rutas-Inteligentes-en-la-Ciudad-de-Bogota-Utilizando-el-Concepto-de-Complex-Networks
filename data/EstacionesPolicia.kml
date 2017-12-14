@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <name>Unlabeled</name>
+        <Placemark id="feat_2">
+            <name>EstaciÃ³n de PolicÃ­a Vigesima Segunda Regional</name>
+            <Point id="geom_0">
+                <coordinates>-74.0790266,4.5915213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>CAI Pinar</name>
+            <Point id="geom_1">
+                <coordinates>-74.0830713,4.7497422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>CAI Rosales</name>
+            <Point id="geom_2">
+                <coordinates>-74.0490102,4.6561095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>CAI Britalia</name>
+            <Point id="geom_3">
+                <coordinates>-74.1711417,4.6243162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>estacion policia bosa</name>
+            <Point id="geom_4">
+                <coordinates>-74.119071,4.5339387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>EstaciÃ³n Sexta de Policia Tunjuelito</name>
+            <Point id="geom_5">
+                <coordinates>-74.1332671,4.5856354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>XIV EstaciÃ³n de PolicÃ­a</name>
+            <Point id="geom_6">
+                <coordinates>-74.0896297,4.6085402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>DIJIN - Direccion Judicial de Investigacion Criminal e Interpol</name>
+            <Point id="geom_7">
+                <coordinates>-74.1157597,4.6710341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>VigÃ©sima Segunda EstaciÃ³n de PolicÃ­a Terminal</name>
+            <Point id="geom_8">
+                <coordinates>-74.1145688,4.6511604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Grupo de Acciones Psicosociales de la PolicÃ­a Nacional</name>
+            <Point id="geom_9">
+                <coordinates>-74.0906153,4.6760454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>Control de PolicÃ­a Km 9 BogotÃ¡ El Rosal</name>
+            <Point id="geom_10">
+                <coordinates>-74.204178,4.794664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>CAI ALTAMIRA-PINARES</name>
+            <Point id="geom_11">
+                <coordinates>-74.0860828,4.5370546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>CAI Villa Luz</name>
+            <Point id="geom_12">
+                <coordinates>-74.1075964,4.6812874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>Cai Santa Barbara</name>
+            <Point id="geom_13">
+                <coordinates>-74.0313673,4.693085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>EstaciÃ³n de Auxiliares Bachilleres MEBOG</name>
+            <Point id="geom_14">
+                <coordinates>-74.077625,4.570564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>EstaciÃ³n de PolicÃ­a Puente Aranda</name>
+            <Point id="geom_15">
+                <coordinates>-74.105175,4.619561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>DirecciÃ³n de Sanidad PolicÃ­a Nacional</name>
+            <Point id="geom_16">
+                <coordinates>-74.091182,4.592026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>CAI</name>
+            <Point id="geom_17">
+                <coordinates>-74.1045668,4.4917234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>Oficina de AtenciÃ³n Al Ciudadano EstaciÃ³n de PolicÃ­a Santa Fe</name>
+            <Point id="geom_18">
+                <coordinates>-74.0664173,4.6149333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>Base Delta - SubestaciÃ³n de PolÃ­cia</name>
+            <Point id="geom_19">
+                <coordinates>-74.1130141,4.5824199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>CAI Serena</name>
+            <Point id="geom_20">
+                <coordinates>-74.0942296,4.71002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>EstaciÃ³n de Policia DÃ©cima EngativÃ¡</name>
+            <Point id="geom_21">
+                <coordinates>-74.1027483,4.6900329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Policia Metropolitana</name>
+            <Point id="geom_22">
+                <coordinates>-74.0645051,4.6421448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>UPJ InspecciÃ³n De PolicÃ­a De La Unidad Permanente De Justicia</name>
+            <Point id="geom_23">
+                <coordinates>-74.0715384,4.6760277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>Centro de Inteligencia PolicÃ­a Nacional</name>
+            <Point id="geom_24">
+                <coordinates>-74.067987,4.734104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>CAI Gaitana</name>
+            <Point id="geom_25">
+                <coordinates>-74.1079894,4.7452954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>CAI Florida</name>
+            <Point id="geom_26">
+                <coordinates>-74.111043,4.693622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>INSPECCION DE POLICIA CHAPINERO</name>
+            <Point id="geom_27">
+                <coordinates>-74.0611985,4.6464522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>Policia Direccion De Sanidad</name>
+            <Point id="geom_28">
+                <coordinates>-74.0928043,4.5979702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>CAI Roma</name>
+            <Point id="geom_29">
+                <coordinates>-74.1756387,4.6134274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>EstaciÃ³n de PolicÃ­a San Fernando</name>
+            <Point id="geom_30">
+                <coordinates>-74.0816675,4.6740124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>EstaciÃ³n SÃ©ptima de PolicÃ­a Bosa</name>
+            <Point id="geom_31">
+                <coordinates>-74.1865609,4.6004855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>InspecciÃ³n de PolicÃ­a Restrepo</name>
+            <Point id="geom_32">
+                <coordinates>-74.103192,4.584499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>EstaciÃ³n de PolicÃ­a El CampÃ­n</name>
+            <Point id="geom_33">
+                <coordinates>-74.078123,4.647592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>DirecciÃ³n Administrativa y Financiera Movilidad Policia Nacional</name>
+            <Point id="geom_34">
+                <coordinates>-74.131356,4.5859759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>CAI Verbenal</name>
+            <Point id="geom_35">
+                <coordinates>-74.0403544,4.7644353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>EstaciÃ³n de PolicÃ­a 24 de BogotÃ¡</name>
+            <Point id="geom_36">
+                <coordinates>-74.084306,4.597889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>EstaciÃ³n de PolicÃ­a Serrezuela</name>
+            <Point id="geom_37">
+                <coordinates>-74.017576,4.761897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>CAI San Carlos</name>
+            <Point id="geom_38">
+                <coordinates>-74.129685,4.567302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>EstaciÃ³n de PolicÃ­a ChÃ­a Kr11</name>
+            <Point id="geom_39">
+                <coordinates>-74.059687,4.86374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>EstaciÃ³n de PolicÃ­a de UsaquÃ©n</name>
+            <Point id="geom_40">
+                <coordinates>-74.0291926,4.7423158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>CAI Caldas</name>
+            <Point id="geom_41">
+                <coordinates>-74.1555872,4.6330758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>Cai Toberin</name>
+            <Point id="geom_42">
+                <coordinates>-74.039745,4.743618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>EstaciÃ³n DÃ©cima Cuarta MÃ¡rtires</name>
+            <Point id="geom_43">
+                <coordinates>-74.0889017,4.609013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>EstaciÃ³n de Carabineros Parque Nacional</name>
+            <Point id="geom_44">
+                <coordinates>-74.060326,4.621147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>CoordinaciÃ³n de InspecciÃ³n de PolicÃ­a</name>
+            <Point id="geom_45">
+                <coordinates>-74.03151,4.698485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>InspecciÃ³n de Policia Teusaquillo</name>
+            <Point id="geom_46">
+                <coordinates>-74.0709309,4.6287231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>EstaciÃ³n de Carabineros PolicÃ­a Nacional Sierra Morena</name>
+            <Point id="geom_47">
+                <coordinates>-74.162405,4.581747,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>EstaciÃ³n de PolicÃ­a De Carreteras</name>
+            <Point id="geom_48">
+                <coordinates>-74.166297,4.692579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>Escuela de Postgrados de PolicÃ­a &quot;Miguel Antonio Lleras Pizarro&quot;</name>
+            <Point id="geom_49">
+                <coordinates>-74.071802,4.7358302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>Policia Nacional Direccion Nacional de Escuelas Escuela de Seguridad Vial</name>
+            <Point id="geom_50">
+                <coordinates>-74.16407,4.6915737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>EstaciÃ³n de PolicÃ­a Mosquera</name>
+            <Point id="geom_51">
+                <coordinates>-74.2290102,4.704137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>Fondo Rotatorio PolicÃ­a Nacional</name>
+            <Point id="geom_52">
+                <coordinates>-74.099041,4.652805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>DÃ©cima Octava EstaciÃ³n de PolicÃ­a Rafael Uribe</name>
+            <Point id="geom_53">
+                <coordinates>-74.1105203,4.5854244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>CAI Techo</name>
+            <Point id="geom_54">
+                <coordinates>-74.1473105,4.6260376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>EstaciÃ³n De Policia Tercera Santa Fe</name>
+            <Point id="geom_55">
+                <coordinates>-74.0663196,4.615225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>CAI GalÃ¡n</name>
+            <Point id="geom_56">
+                <coordinates>-74.1189958,4.6201967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>Estacion Decima Tercera Teusaquillo</name>
+            <Point id="geom_57">
+                <coordinates>-74.0671495,4.6275097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>Cai Contador</name>
+            <Point id="geom_58">
+                <coordinates>-74.046867,4.720577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>EstaciÃ³n XI de Policia Suba</name>
+            <Point id="geom_59">
+                <coordinates>-74.085316,4.7415475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>CAI Lisboa</name>
+            <Point id="geom_60">
+                <coordinates>-74.0288528,4.7084323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>Cai Teusaquillo</name>
+            <Point id="geom_61">
+                <coordinates>-74.0713638,4.623612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>Octava Estacion de Policia Kennedy</name>
+            <Point id="geom_62">
+                <coordinates>-74.159303,4.619413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>InspecciÃ³n De PolicÃ­a</name>
+            <Point id="geom_63">
+                <coordinates>-74.120645,4.665485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>CAI San Jorge</name>
+            <Point id="geom_64">
+                <coordinates>-74.12182,4.56952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>CAI</name>
+            <Point id="geom_65">
+                <coordinates>-74.0651286,4.7554776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>DirecciÃ³n Nacional de Escuelas PolicÃ­a Nacional de Colombia</name>
+            <Point id="geom_66">
+                <coordinates>-74.1313361,4.5859962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>DirecciÃ³n AntinarcÃ³ticos PolicÃ­a Nacional</name>
+            <Point id="geom_67">
+                <coordinates>-74.153145,4.7052889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>Cai Verbenal - Policia Metropolitana de BogotÃ¡</name>
+            <Point id="geom_68">
+                <coordinates>-74.0403956,4.7644287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>EstaciÃ³n de PolicÃ­a Aeropuerto El Dorado</name>
+            <Point id="geom_69">
+                <coordinates>-74.141532,4.694963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>Policia Nacional Hangar I</name>
+            <Point id="geom_70">
+                <coordinates>-74.0702373,4.8169782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>PolicÃ­a Ambiental y Ecologica MEBOG</name>
+            <Point id="geom_71">
+                <coordinates>-74.0890117,4.6660981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>EstaciÃ³n de PolicÃ­a Puente Aranda</name>
+            <Point id="geom_72">
+                <coordinates>-74.10525,4.606164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>CAI Olarte</name>
+            <Point id="geom_73">
+                <coordinates>-74.1624616,4.5997903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>Cai Tierralinda</name>
+            <Point id="geom_74">
+                <coordinates>-74.057389,4.7116049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>Gaula PolicÃ­a Nacional</name>
+            <Point id="geom_75">
+                <coordinates>-74.080502,4.593865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>CAI Navarra</name>
+            <Point id="geom_76">
+                <coordinates>-74.05522,4.69558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>InspecciÃ³n De Policia Suba - Casa De Justicia</name>
+            <Point id="geom_77">
+                <coordinates>-74.081658,4.6996987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>Cai Villa Claudia</name>
+            <Point id="geom_78">
+                <coordinates>-74.135493,4.609957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>EstaciÃ³n de PolicÃ­a</name>
+            <Point id="geom_79">
+                <coordinates>-74.072163,4.580469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>CAI ONEIDA</name>
+            <Point id="geom_80">
+                <coordinates>-74.145144,4.6189642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>Estacion de Policia Chapinero</name>
+            <Point id="geom_81">
+                <coordinates>-74.0587611,4.6407753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>Seccional de PolicÃ­a Judicial Sijin Metropolitana de BogotÃ¡</name>
+            <Point id="geom_82">
+                <coordinates>-74.085122,4.597838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>PolicÃ­a Nacional Torca</name>
+            <Point id="geom_83">
+                <coordinates>-74.02684,4.777386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>Sijin Automotores</name>
+            <Point id="geom_84">
+                <coordinates>-74.1221109,4.6500807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>CAI alamos</name>
+            <Point id="geom_85">
+                <coordinates>-74.11732,4.690186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>Estacion de Policia</name>
+            <Point id="geom_86">
+                <coordinates>-74.06047,4.85928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>EstaciÃ³n De PolicÃ­a UsaquÃ©n</name>
+            <Point id="geom_87">
+                <coordinates>-74.0266906,4.7417286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>DÃ©cima Novena EstaciÃ³n de PolicÃ­a Ciudad BolÃ­var</name>
+            <Point id="geom_88">
+                <coordinates>-74.1381025,4.5574551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>EstaciÃ³n de PolicÃ­a Guaymaral</name>
+            <Point id="geom_89">
+                <coordinates>-74.0700619,4.817292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>InspecciÃ³n de PolicÃ­a Usme</name>
+            <Point id="geom_90">
+                <coordinates>-74.125685,4.470821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>Escuela de Suboficiales y Nivel Ejecutivo Gonzalo Jimenez de Quedada</name>
+            <Point id="geom_91">
+                <coordinates>-74.2496442,4.5039939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>CAI NormandÃ­a</name>
+            <Point id="geom_92">
+                <coordinates>-74.107478,4.670219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>EstaciÃ³n de PolicÃ­a CÃ¡rcel Distrital</name>
+            <Point id="geom_93">
+                <coordinates>-74.084564,4.585608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>Incorporacion Policia Nacional</name>
+            <Point id="geom_94">
+                <coordinates>-74.1348108,4.5746798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>POLICIA NACIONAL SEGURIDAD SOCIAL</name>
+            <Point id="geom_95">
+                <coordinates>-74.091046,4.642673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>EstaciÃ³n de PolicÃ­a Ciudad BolÃ­var</name>
+            <Point id="geom_96">
+                <coordinates>-74.164807,4.577173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>CAI Perimetral de Chia</name>
+            <Point id="geom_97">
+                <coordinates>-74.0376676,4.8774822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>DirecciÃ³n General de la PolicÃ­a Nacional - DIPON</name>
+            <Point id="geom_98">
+                <coordinates>-74.0979349,4.6475753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>Unidad Permanente de Justicia - UPJ</name>
+            <Point id="geom_99">
+                <coordinates>-74.1027423,4.6181775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>CAI Virrey</name>
+            <Point id="geom_100">
+                <coordinates>-74.0539676,4.6732497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>EstaciÃ³n de PolicÃ­a Danubio Azul</name>
+            <Point id="geom_101">
+                <coordinates>-74.113389,4.537378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>Policia Nacional Estacion Leon XIII</name>
+            <Point id="geom_102">
+                <coordinates>-74.193235,4.5940337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>RetÃ©n de PolicÃ­a</name>
+            <Point id="geom_103">
+                <coordinates>-74.0935685,4.4773752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>Estacion de POLICIA</name>
+            <Point id="geom_104">
+                <coordinates>-74.0670127,4.6056811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>Policia Antinarcoticos</name>
+            <Point id="geom_105">
+                <coordinates>-74.0620176,4.81453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>EstaciÃ³n de PolicÃ­a</name>
+            <Point id="geom_106">
+                <coordinates>-74.12388,4.58347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>EstaciÃ³n de PolicÃ­a Vi</name>
+            <Point id="geom_107">
+                <coordinates>-74.084394,4.598437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>EstaciÃ³n XV de Policia</name>
+            <Point id="geom_108">
+                <coordinates>-74.103156,4.5856891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>POLICIA NACIONAL REGION No. 1</name>
+            <Point id="geom_109">
+                <coordinates>-74.0602492,4.6815823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>Comando Departamento De PolicÃ­a Cundinamarca</name>
+            <Point id="geom_110">
+                <coordinates>-74.1129166,4.6294371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>Policia Nacional CAI Cazuca</name>
+            <Point id="geom_111">
+                <coordinates>-74.1856359,4.5849391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>Centro Control Policia Transito Y Transporte.</name>
+            <Point id="geom_112">
+                <coordinates>-74.0876468,4.6156444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>CAI Santander</name>
+            <Point id="geom_113">
+                <coordinates>-74.1380747,4.6710975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>Escuela De InvestigaciÃ³n Criminal - PolicÃ­a Nacional</name>
+            <Point id="geom_114">
+                <coordinates>-74.0909644,4.5902757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>PolicÃ­a Nacional escuela de cadetes de PolicÃ­a general Francisco de paula santander</name>
+            <Point id="geom_115">
+                <coordinates>-74.1313172,4.5930388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>Centro de Traslado Por Proteccion</name>
+            <Point id="geom_116">
+                <coordinates>-74.1023698,4.6175323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>EstaciÃ³n de Policia FontibÃ³n</name>
+            <Point id="geom_117">
+                <coordinates>-74.148831,4.667707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>EstaciÃ³n de PolicÃ­a San Cristobal</name>
+            <Point id="geom_118">
+                <coordinates>-74.0859125,4.5699709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>CAI de Aures 1</name>
+            <Point id="geom_119">
+                <coordinates>-74.096083,4.7343376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>Sub EstaciÃ³n PolicÃ­a Chapinero</name>
+            <Point id="geom_120">
+                <coordinates>-74.0630946,4.6540062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>CAI Distrital</name>
+            <Point id="geom_121">
+                <coordinates>-74.0846672,4.5856045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>CAI Guaymaral</name>
+            <Point id="geom_122">
+                <coordinates>-74.0743377,4.8188642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>CAI BachuÃ©</name>
+            <Point id="geom_123">
+                <coordinates>-74.102349,4.716089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>CAI Chapinero</name>
+            <Point id="geom_124">
+                <coordinates>-74.0561369,4.655379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>CAI Modelia</name>
+            <Point id="geom_125">
+                <coordinates>-74.118451,4.665073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>Policia Turismo</name>
+            <Point id="geom_126">
+                <coordinates>-74.0713584,4.6164003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>Policia Nacional Cuadrante 38</name>
+            <Point id="geom_127">
+                <coordinates>-74.119164,4.669611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>DirecciÃ³n de ProtecciÃ³n y Servicios Especiales PolicÃ­a Nacional</name>
+            <Point id="geom_128">
+                <coordinates>-74.1129756,4.6347527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>EstaciÃ³n novena de PolicÃ­a (FontibÃ³n)</name>
+            <Point id="geom_129">
+                <coordinates>-74.1488708,4.667443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>CAI Perdomo</name>
+            <Point id="geom_130">
+                <coordinates>-74.1686813,4.586676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>Puesto de Control de La PolicÃ­a</name>
+            <Point id="geom_131">
+                <coordinates>-74.0262544,4.7786301,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
