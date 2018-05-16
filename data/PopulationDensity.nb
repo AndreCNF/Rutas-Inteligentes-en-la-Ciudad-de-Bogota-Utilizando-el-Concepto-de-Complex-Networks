@@ -1,0 +1,446 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     15333,        437]
+NotebookOptionsPosition[     13149,        362]
+NotebookOutlinePosition[     13504,        378]
+CellTagsIndexPosition[     13461,        375]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{"New", " ", "York"}], "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", "=", "783.84"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", "=", "8622698"}], " ", "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", "=", "11000"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"Population", "/", "UrbArea"}], "//", "N"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374828989772*^9, 3.734374831021956*^9}, {
+  3.7343752747579927`*^9, 3.7343753009321527`*^9}, {3.734375512839093*^9, 
+  3.734375546733342*^9}},
+ FontSize->18],
+
+Cell[BoxData["783.84`"], "Output",
+ CellChangeTimes->{3.7343755476092253`*^9}],
+
+Cell[BoxData["8622698"], "Output",
+ CellChangeTimes->{3.734375547617494*^9}],
+
+Cell[BoxData["11000"], "Output",
+ CellChangeTimes->{3.73437554762573*^9}],
+
+Cell[BoxData["11000.584302918964`"], "Output",
+ CellChangeTimes->{3.734375547634104*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", "Chicago", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "588.81"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", " ", "2704958"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", " ", "4593.95"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"Population", "/", "UrbArea"}], "//", "N"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.7343755582913113`*^9, 3.734375558497066*^9}},
+ FontSize->18],
+
+Cell[BoxData["588.81`"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375560022977*^9},
+ FontSize->18],
+
+Cell[BoxData["2704958"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.7343755600325947`*^9},
+ FontSize->18],
+
+Cell[BoxData["4593.95`"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.7343755600399427`*^9},
+ FontSize->18],
+
+Cell[BoxData["4593.940320307061`"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375560047454*^9},
+ FontSize->18]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", "Atlanta", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", " ", "1370"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.734375384759118*^9, 3.734375398876574*^9}},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375687062933*^9},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375687072678*^9},
+ FontSize->18],
+
+Cell[BoxData["1370"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.73437568708013*^9},
+ FontSize->18]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", "Boston", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", " ", "5368"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.734375402955842*^9, 3.73437540373958*^9}, {
+  3.734375453556761*^9, 3.734375461286728*^9}},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.7343756899652853`*^9},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375689975041*^9},
+ FontSize->18],
+
+Cell[BoxData["5368"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.73437568998282*^9},
+ FontSize->18]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", "Bogota", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "1587"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", " ", "8080734"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", " ", 
+    RowBox[{
+     RowBox[{"Population", "/", "UrbArea"}], "//", "N"}]}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.734375480558649*^9, 3.7343754838548098`*^9}, {
+  3.734375569786845*^9, 3.734375600394352*^9}, {3.734375635805489*^9, 
+  3.734375639063458*^9}},
+ FontSize->18],
+
+Cell[BoxData["1587"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9},
+ FontSize->18],
+
+Cell[BoxData["8080734"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.73437563959645*^9},
+ FontSize->18],
+
+Cell[BoxData["5091.829867674858`"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639599926*^9},
+ FontSize->18]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{"Los", " ", "Angeles"}], "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", " ", "3275"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.734375480558649*^9, 3.7343754838548098`*^9}, {
+  3.734375569786845*^9, 3.734375600394352*^9}, {3.734375635805489*^9, 
+  3.734375639063458*^9}, {3.734378073913859*^9, 3.7343780757327147`*^9}, {
+  3.734378128694271*^9, 3.7343781400708942`*^9}},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.7343781421554403`*^9},
+ FontSize->18],
+
+Cell[BoxData["3275"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142163189*^9},
+ FontSize->18]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", "Houston", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", " ", "1414"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.734375480558649*^9, 3.7343754838548098`*^9}, {
+  3.734375569786845*^9, 3.734375600394352*^9}, {3.734375635805489*^9, 
+  3.734375639063458*^9}, {3.734378073913859*^9, 3.7343780757327147`*^9}, {
+  3.734378128694271*^9, 3.7343781400708942`*^9}, {3.734378356412311*^9, 
+  3.734378361217774*^9}},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.7343784227540483`*^9},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.73437842276367*^9},
+ FontSize->18],
+
+Cell[BoxData["1414"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.734378422771378*^9},
+ FontSize->18]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", "Philadelphia", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", "4512"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.734375480558649*^9, 3.7343754838548098`*^9}, {
+  3.734375569786845*^9, 3.734375600394352*^9}, {3.734375635805489*^9, 
+  3.734375639063458*^9}, {3.734378073913859*^9, 3.7343780757327147`*^9}, {
+  3.734378128694271*^9, 3.7343781400708942`*^9}, {3.734378356412311*^9, 
+  3.734378361217774*^9}, {3.734378393924759*^9, 3.734378419644259*^9}},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.7343784208578587`*^9},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.734378420863311*^9},
+ FontSize->18],
+
+Cell[BoxData["4512"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.734378420866762*^9},
+ FontSize->18]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{"San", " ", "Francisco"}], "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", "7282"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.734375480558649*^9, 3.7343754838548098`*^9}, {
+  3.734375569786845*^9, 3.734375600394352*^9}, {3.734375635805489*^9, 
+  3.734375639063458*^9}, {3.734378073913859*^9, 3.7343780757327147`*^9}, {
+  3.734378128694271*^9, 3.7343781400708942`*^9}, {3.734378356412311*^9, 
+  3.734378361217774*^9}, {3.734378393924759*^9, 3.734378419644259*^9}, {
+  3.7343788429078827`*^9, 3.73437887317974*^9}},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.7343784208578587`*^9, 
+   3.734379090622744*^9},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.7343784208578587`*^9, 
+   3.734379090632205*^9},
+ FontSize->18],
+
+Cell[BoxData["7282"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.7343784208578587`*^9, 
+   3.734379090639637*^9},
+ FontSize->18]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", "Miami", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"UrbArea", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"Population", " ", "=", " ", "0"}], "\[IndentingNewLine]", 
+   RowBox[{"PopDensity", " ", "=", "4866"}]}]}]], "Input",
+ CellChangeTimes->{{3.734374217404228*^9, 3.734374277357328*^9}, {
+  3.734374734502428*^9, 3.734374755506675*^9}, {3.734374786219586*^9, 
+  3.734374808118411*^9}, {3.734375480558649*^9, 3.7343754838548098`*^9}, {
+  3.734375569786845*^9, 3.734375600394352*^9}, {3.734375635805489*^9, 
+  3.734375639063458*^9}, {3.734378073913859*^9, 3.7343780757327147`*^9}, {
+  3.734378128694271*^9, 3.7343781400708942`*^9}, {3.734378356412311*^9, 
+  3.734378361217774*^9}, {3.734378393924759*^9, 3.734378419644259*^9}, {
+  3.7343788429078827`*^9, 3.73437887317974*^9}, {3.7343790652772903`*^9, 
+  3.7343790886419153`*^9}},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.7343784208578587`*^9, 
+   3.734379089125992*^9},
+ FontSize->18],
+
+Cell[BoxData["0"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.7343784208578587`*^9, 
+   3.7343790891334763`*^9},
+ FontSize->18],
+
+Cell[BoxData["4866"], "Output",
+ CellChangeTimes->{{3.7343747913589973`*^9, 3.734374808565468*^9}, 
+   3.734375639590761*^9, 3.734378142141303*^9, 3.7343784208578587`*^9, 
+   3.734379089136839*^9},
+ FontSize->18]
+}, Open  ]]
+},
+WindowSize->{1041, 782},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"10.3 for Mac OS X x86 (32-bit, 64-bit Kernel) (October 9, \
+2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 582, 13, 126, "Input"],
+Cell[1165, 37, 78, 1, 28, "Output"],
+Cell[1246, 40, 76, 1, 28, "Output"],
+Cell[1325, 43, 73, 1, 28, "Output"],
+Cell[1401, 46, 88, 1, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1526, 52, 630, 12, 126, "Input"],
+Cell[2159, 66, 143, 3, 33, "Output"],
+Cell[2305, 71, 145, 3, 33, "Output"],
+Cell[2453, 76, 146, 3, 33, "Output"],
+Cell[2602, 81, 154, 3, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2793, 89, 516, 10, 103, "Input"],
+Cell[3312, 101, 137, 3, 33, "Output"],
+Cell[3452, 106, 137, 3, 33, "Output"],
+Cell[3592, 111, 139, 3, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3768, 119, 568, 11, 103, "Input"],
+Cell[4339, 132, 139, 3, 33, "Output"],
+Cell[4481, 137, 137, 3, 33, "Output"],
+Cell[4621, 142, 139, 3, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4797, 150, 693, 14, 103, "Input"],
+Cell[5493, 166, 140, 3, 33, "Output"],
+Cell[5636, 171, 142, 3, 33, "Output"],
+Cell[5781, 176, 154, 3, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5972, 184, 746, 14, 103, "Input"],
+Cell[6721, 200, 159, 3, 33, "Output"],
+Cell[6883, 205, 161, 3, 33, "Output"],
+Cell[7047, 210, 162, 3, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[7246, 218, 769, 14, 103, "Input"],
+Cell[8018, 234, 183, 3, 33, "Output"],
+Cell[8204, 239, 180, 3, 33, "Output"],
+Cell[8387, 244, 184, 3, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[8608, 252, 815, 14, 103, "Input"],
+Cell[9426, 268, 183, 3, 33, "Output"],
+Cell[9612, 273, 181, 3, 33, "Output"],
+Cell[9796, 278, 184, 3, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[10017, 286, 888, 16, 103, "Input"],
+Cell[10908, 304, 209, 4, 33, "Output"],
+Cell[11120, 310, 209, 4, 33, "Output"],
+Cell[11332, 316, 212, 4, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[11581, 325, 911, 16, 103, "Input"],
+Cell[12495, 343, 209, 4, 33, "Output"],
+Cell[12707, 349, 211, 4, 33, "Output"],
+Cell[12921, 355, 212, 4, 33, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)

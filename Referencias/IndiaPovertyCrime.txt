@@ -1,0 +1,5 @@
+@article{iyer2014poverty,
+  title={Poverty and crime: evidence from rainfall and trade shocks in India},
+  author={Iyer, Lakshmi and Topalova, Petia},
+  year={2014}
+}
